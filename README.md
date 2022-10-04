@@ -1,4 +1,4 @@
-## :school: SalesForce_ADMIN 커리큘럼 및 학습 진도 현황
+## :school: SalesForce_ADMIN 커리큘럼 목록  및 학습 진도 현황
 
 ### :one: Configuration and Setup
 
@@ -54,6 +54,69 @@
     - [x] 계정 팀 설정
 
 ### :two: Object Manager and Lightning App Builder
+
+- 데이터 모델링
+    - [x] 사용자 정의 및 기본 객체 이해하기
+    - [x] 객체 관계 만들기
+    - [x] Schema Builder로 작업하기
+
+- Lightning Experience 사용자 정의
+    - [x] 조직설정
+    - [x] Lightning 앱 만들기 및 사용자 정의
+    - [x] 목록 보기 만들기 및 사용자 정의
+    - [x] 소형 레이아웃으로 레코드 하이라이트 사용자 정의
+    - [x] 페이지 레이아웃으로 레코드 세부 사항 사용자 정의
+    - [x] 사용자 정의 버튼 및 링크 만들기
+    - [x] 빠른 작업으로 사용자의 역량을 강화
+
+- Salesforce 객체 사용자 정의
+    - [x] 표준 및 사용자 정의 필드를 사용하여 작업하기
+    - [x] 선택 목록과 필드 종속성 만들기
+    - [x] 룩업 필터 만들기
+    - [x] 수식 필드 만들기
+    - [x] 레코드 유형 만들기
+    - [x] 계정 페이지 레이아웃 만들기
+    - [x] 계정 필드 내역 추적 사용
+    - [x] 검증 규칙 만들기
+
+- Lightning App Builder
+    - [x] Lightning App Builder 시작하기
+    - [x] Lightning Experience을 위한 사용자 정의 홈 페이지 구축
+    - [x] Lightning Experience와 Salesforce 모바일 앱을 위한 사용자 지정 레코드 페이지 구축
+    - [x] 앱 홈 Lightning 페이지 구축
+    - [x] 커스텀 Lightning 컴포넌트 작업
+
+- 수식 및 유효성 검사
+    - [x] 수식 필드 사용
+    - [x] 롤업 요약 필드 구현
+    - [x] 유효성 검사 규칙 만들기
+
+### :three: Sales and Marketing Applications
+
+- Lightning Experience 계정 및 연락처
+    - [x] 고객에 대한 정보 저장
+    - [x] 계정 및 연락처 관계 이해
+
+- Lightning Experience를 위한 리드 및 기회
+    - [x] 리드를 만들고 잠재 고객으로 전환
+    - [x] 기회 활용하기
+    - [x] 팀으로 판매 및 크레딧 분할
+    - [x] 경로 및 간판으로 성공 시각화
+
+- 제품 견적 및 계약
+    - [x] 제품 추적을 위한 가격 목록 만들기
+    - [x] 고객에 대한 견적 구성 및 계약 추적
+
+- 캠페인 기본 사항
+    - [x] Salesforce 캠페인 소개
+    - [x] 캠페인 구성하기
+    - [x] 마케팅 대상 결정하기
+    - [x] 캠페인에 대해 보고하기
+
+- 판매 팀을 위한 판매 경로 사용자 정의
+    - [x] 판매 경로 사용자 정의
+    - [x] 기회 단계 사용자 정의
+    - [x] 간판 보기에서 기회에 대한 작업하기
 
 [Admin_Curriculum_Address](https://trailhead.salesforce.com/ko/users/strailhead/trailmixes/prepare-for-your-salesforce-administrator-credential)
 
