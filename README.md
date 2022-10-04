@@ -118,5 +118,118 @@
     - [x] 기회 단계 사용자 정의
     - [x] 간판 보기에서 기회에 대한 작업하기
 
+### :four: Service and Support Applications
+
+- Lightning Experience용Service Cloud
+    - [ ] 고객 서비스 여정 시작
+    - [ ] Service Cloud 관리
+    - [ ] 사례 관리 자동화
+    - [ ] 여러 채널에 디지털 참여 만들기
+
+- 서비스 콘솔 설정
+    - [ ] 라이트닝 서비스 콘솔 설정
+    - [ ] 라이트닝 서비스 콘솔 페이지 사용자 지정
+    - [ ] 앱에 소프트폰 유틸리티 추가
+    - [ ] 본체에 대한 웹 채팅 설정
+
+- 지원 사례 관리를 위한 프로세스 만들기
+    - [ ] 지원 프로세스 만들기
+    - [ ] 레코드 유형 만들기
+    - [ ] 에스컬레이션 규칙 만들기
+
+- 케이스 에스컬레이션 및 인타이틀먼트 설정
+    - [ ] 지원 프로세스 만들기
+    - [ ] 케이스 큐 및 할당 규칙 만들기
+    - [ ] 케이스 에스컬레이션 규칙 만들기
+    - [ ] 프로세스 빌더를 사용하여 흐름 만들기
+    - [ ] 권한 사용 및 서비스 계약 설정
+    - [ ] 권한 프로세스 만들기
+    - [ ] 자격으로 서비스 계약 만들기
+
+### :five: Productivity and Collaboration
+
+- Lightning Experience용 Chatter 관리
+    - [ ] Chatter 시작하기
+    - [ ] Chatter 그룹과 협업
+    - [ ] 피드 추적 활성화
+    - [ ] Chatter 피드에서 레코드 승인
+    - [ ] 롤아웃 전략 개발
+
+- Salesforce 모바일 앱 사용자 정의
+    - [ ] Salesforce 모바일 앱 시작하기
+    - [ ] 탐색 사용자 정의
+    - [ ] 빠른 전역 작업 만들기
+    - [ ] 객체별 빠른 작업 만들기
+    - [ ] 축소 레이아웃 사용자 정의
+
+- AppExchange 기본 사항
+    - [ ] AppExchage 시작하기
+    - [ ] AppExchage 탐색
+    - [ ] AppExchage 목록 탐색
+    - [ ] AppExchage 패키지 설치
+    - [ ] AppExchage 커뮤니티에 연결하고 기여하기
+
+### :six: Data and Analytics Management
+
+- 데이터 관리
+    - [ ] 데이터 가져오기
+    - [ ] 데이터 내보내기
+
+- Duplicate Management(중복관리)
+    - [ ] Salesforce의 데이터 품질 향상
+    - [ ] Salesforce의 중복 데이터 해결 및 방지
+
+- 데이터 관리 도구로 데이터 가져오기 및 내보내기
+    - [ ] 데이터 가져오기 마법사 사용하기
+    - [ ] Dataloader.io를 사용하여 데이터 내보내기
+    - [ ] Dataloader.io를 사용하여 데이터 업데이트
+
+- Lightning Experience용 보고서 및 대시보드
+    - [ ] Lightning Experience의 보고서 및 대시보드 소개
+    - [ ] 보고서 빌더로 보고서 작성
+    - [ ] 보고서 형식 지정
+    - [ ] Lightning 대시보드 빌더로 데이터 시각화
+    - [ ] AppExchange로 보고 전략 확장
+
+- 영업 및 마케팅 관리자를 위해 보고서 및 대시보드 만들기
+    - [ ] 보고서 및 대시보드 폴더 만들기
+    - [ ] 단순 사용자 정의 보고서 만들기
+    - [ ] 보고서 필터링
+    - [ ] 데이터 그룹화 및 분류
+    - [ ] 보고서에 요약 수식 사용
+    - [ ] 보고 데이터 관리
+    - [ ] 데이터 시각화
+
+### :seven: Workflow/Process Automation
+
+- 승인 프로세스로 기록 승인
+    - [ ] 레코드가 승인되는 방법 사용자 지정
+    - [ ] 승인 프로세스 구축
+
+- 할인 승인 프로세스 구축
+    - [ ] 조직 준비
+    - [ ] 승인 프로세스 준비
+    - [ ] 초기 제출 작업 만들기
+    - [ ] 최종 승인 및 거부 작업 지정
+
+- 빠른시작:프로세스 빌더
+    - [ ] 계정 객체에 새 프로세스 만들기
+    - [ ] 새 프로세스 조건
+    - [ ] 프로세스 작업 추가
+    - [ ] 프로세스 테스트
+
+- 간단한 플로 작성하기
+    - [ ] 사용자로부터 연락처 정보 수집
+    - [ ] 조직에서 일치하는 연락처를 확인
+    - [ ] 플로 세분화
+    - [ ] 연락처 생성 또는 업데이트
+
+- 흐름 기본 사항
+    - [ ] 자동화 시작하기
+    - [ ] 흐름과 함께 가라
+    - [ ] 플로우 빌더
+    - [ ] 흐름 변수에 대해 알아보기
+
+
 [Admin_Curriculum_Address](https://trailhead.salesforce.com/ko/users/strailhead/trailmixes/prepare-for-your-salesforce-administrator-credential)
 
