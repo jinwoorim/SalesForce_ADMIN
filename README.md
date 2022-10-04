@@ -2,7 +2,7 @@
 
 ### :one: Configuration and Setup
 
-####  :hash: Salesforce Platform 기초
+- Salesforce Platform 기초
     - [x] Salesforce Platform 시작하기
     - [ ] 플랫폼 사용 사례 알아보기
     - [ ] Salesforce 아키텍처 이해
