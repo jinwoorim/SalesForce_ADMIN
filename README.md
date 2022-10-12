@@ -149,25 +149,25 @@
 ### :five: Productivity and Collaboration
 
 - Lightning Experience용 Chatter 관리
-    - [ ] Chatter 시작하기
-    - [ ] Chatter 그룹과 협업
-    - [ ] 피드 추적 활성화
-    - [ ] Chatter 피드에서 레코드 승인
-    - [ ] 롤아웃 전략 개발
+    - [x] Chatter 시작하기
+    - [x] Chatter 그룹과 협업
+    - [x] 피드 추적 활성화
+    - [x] Chatter 피드에서 레코드 승인
+    - [x] 롤아웃 전략 개발
 
 - Salesforce 모바일 앱 사용자 정의
-    - [ ] Salesforce 모바일 앱 시작하기
-    - [ ] 탐색 사용자 정의
-    - [ ] 빠른 전역 작업 만들기
-    - [ ] 객체별 빠른 작업 만들기
-    - [ ] 축소 레이아웃 사용자 정의
+    - [x] Salesforce 모바일 앱 시작하기
+    - [x] 탐색 사용자 정의
+    - [x] 빠른 전역 작업 만들기
+    - [x] 객체별 빠른 작업 만들기
+    - [x] 축소 레이아웃 사용자 정의
 
 - AppExchange 기본 사항
-    - [ ] AppExchage 시작하기
-    - [ ] AppExchage 탐색
-    - [ ] AppExchage 목록 탐색
-    - [ ] AppExchage 패키지 설치
-    - [ ] AppExchage 커뮤니티에 연결하고 기여하기
+    - [x] AppExchage 시작하기
+    - [x] AppExchage 탐색
+    - [x] AppExchage 목록 탐색
+    - [x] AppExchage 패키지 설치
+    - [x] AppExchage 커뮤니티에 연결하고 기여하기
 
 ### :six: Data and Analytics Management
 
