@@ -172,33 +172,33 @@
 ### :six: Data and Analytics Management
 
 - 데이터 관리
-    - [ ] 데이터 가져오기
-    - [ ] 데이터 내보내기
+    - [x] 데이터 가져오기
+    - [x] 데이터 내보내기
 
 - Duplicate Management(중복관리)
-    - [ ] Salesforce의 데이터 품질 향상
-    - [ ] Salesforce의 중복 데이터 해결 및 방지
+    - [x] Salesforce의 데이터 품질 향상
+    - [x] Salesforce의 중복 데이터 해결 및 방지
 
 - 데이터 관리 도구로 데이터 가져오기 및 내보내기
-    - [ ] 데이터 가져오기 마법사 사용하기
-    - [ ] Dataloader.io를 사용하여 데이터 내보내기
-    - [ ] Dataloader.io를 사용하여 데이터 업데이트
+    - [x] 데이터 가져오기 마법사 사용하기
+    - [x] Dataloader.io를 사용하여 데이터 내보내기
+    - [x] Dataloader.io를 사용하여 데이터 업데이트
 
 - Lightning Experience용 보고서 및 대시보드
-    - [ ] Lightning Experience의 보고서 및 대시보드 소개
-    - [ ] 보고서 빌더로 보고서 작성
-    - [ ] 보고서 형식 지정
-    - [ ] Lightning 대시보드 빌더로 데이터 시각화
-    - [ ] AppExchange로 보고 전략 확장
+    - [x] Lightning Experience의 보고서 및 대시보드 소개
+    - [x] 보고서 빌더로 보고서 작성
+    - [x] 보고서 형식 지정
+    - [x] Lightning 대시보드 빌더로 데이터 시각화
+    - [x] AppExchange로 보고 전략 확장
 
 - 영업 및 마케팅 관리자를 위해 보고서 및 대시보드 만들기
-    - [ ] 보고서 및 대시보드 폴더 만들기
-    - [ ] 단순 사용자 정의 보고서 만들기
-    - [ ] 보고서 필터링
-    - [ ] 데이터 그룹화 및 분류
-    - [ ] 보고서에 요약 수식 사용
-    - [ ] 보고 데이터 관리
-    - [ ] 데이터 시각화
+    - [x] 보고서 및 대시보드 폴더 만들기
+    - [x] 단순 사용자 정의 보고서 만들기
+    - [x] 보고서 필터링
+    - [x] 데이터 그룹화 및 분류
+    - [x] 보고서에 요약 수식 사용
+    - [x] 보고 데이터 관리
+    - [x] 데이터 시각화
 
 ### :seven: Workflow/Process Automation
 
